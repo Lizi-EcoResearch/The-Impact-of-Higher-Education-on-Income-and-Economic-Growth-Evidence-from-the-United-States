@@ -12,7 +12,7 @@ Higher education leads to increased individual income and contributes to nationa
 
 ## 📚 Theoretical Framework
 
-This study is based on **human capital theory**, which suggests that investments in education enhance the productivity and earnings potential of individuals, thereby stimulating economic growth.
+This study is based on **human capital theory**, which suggests that investments in education enhance the productivity and earnings potential of individuals, thereby stimulating economic growth。
 
 ---
 
